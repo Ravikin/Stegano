@@ -1,8 +1,8 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 #/		Authored by TheRavikin (https://github.com/Ravikin)    \#
-#\	   ravi@uwcontrol.pl   |   https://steemit.com/@theravikin /#
+#\	   ravi@uwcontrol.pl   |   				       /#
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-# This lil think is printing given image in asci style array with grayscale values
+# This lil thing is printing given image in asci style array with grayscale values
 # Some tips for me for later 
 # PIL convert options
 # https://pillow.readthedocs.io/en/latest/handbook/concepts.html#modes
